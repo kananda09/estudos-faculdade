@@ -6,6 +6,6 @@ Estudos, exercícios e atividades desenvolvidos na disciplina de Frontend I.
 
 - HTML
 - HTML Semântico
-- Formulários
+- Formularios
 - Tabelas
 - CSS
